@@ -6,7 +6,7 @@
 ### `nick`
 
 Olá! Eu sou o **Nick Eduardo dos Santos**, **Desenvolvedor Fullstack**, estudante de Ciência da Computação e entusiasta de tecnologia, desenvolvimento de software, redes e cibersegurança.
-Gosto de entender como as coisas funcionam por baixo dos panos — do código à infraestrutura — e transformar ideias em projetos práticos. No dia a dia, trabalho com tecnologias como **Python, Java, Html, Css, JavaScript, React, SpringBoot, SQL, Ambientes Linux, PostgreSQL, Figma e VirtualBox**, sempre buscando evoluir minhas habilidades técnicas com foco em construir uma carreira internacional na área de TI.
+Gosto de entender como as coisas funcionam por baixo dos panos (do código à infraestrutura) e transformar ideias em projetos práticos. No dia a dia, trabalho com tecnologias como **Python, Java, Html, Css, JavaScript, React, SpringBoot, SQL, Ambientes Linux, PostgreSQL, Figma e VirtualBox**, sempre buscando evoluir minhas habilidades técnicas com foco em construir uma carreira internacional na área de TI.
 
 ```json
 {
