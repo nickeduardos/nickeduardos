@@ -6,18 +6,18 @@
 ### `nick`
 
 Olá! Eu sou o **Nick Eduardo dos Santos**, **Desenvolvedor Fullstack**, estudante de Ciência da Computação e entusiasta de tecnologia, desenvolvimento de software, redes e cibersegurança.
-Gosto de entender como as coisas funcionam por baixo dos panos (do código à infraestrutura) e transformar ideias em projetos práticos. No dia a dia, trabalho com tecnologias como **Python, Java, Html, Css, JavaScript, React, SpringBoot, SQL, Ambientes Linux, PostgreSQL, Figma e VirtualBox**, sempre buscando evoluir minhas habilidades técnicas com foco em construir uma carreira internacional na área de TI.
+Gosto de entender como as coisas funcionam por baixo dos panos (do código à infraestrutura) e transformar ideias em projetos práticos. No dia a dia, trabalho com tecnologias como **Python, Java, Html, Css, JavaScript, Nodejs, React, SpringBoot, SQL, Ambientes Linux, PostgreSQL, Figma e VirtualBox**, sempre buscando evoluir minhas habilidades técnicas com foco em construir uma carreira internacional na área de TI.
 
 ```json
 {
   "nome": "Nick Eduardo",
   "localização": "Rio Grande do Sul - Brasil",
-  "stack": ["Java", "Python", "Html", "Css", "Javascript", "React", "SpringBoot", "PostgreSQL", "Figma", "VirtualBox"]
+  "stack": ["Java", "Python", "Html", "Css", "Javascript", "React", "SpringBoot", "PostgreSQL", "Figma", "VirtualBox", "nodejs"]
 }
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,html,css,js,react,spring,postgres,figma,git,linux,windows,apple"
+  <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,html,css,js,nodejs,react,spring,postgres,figma,linux"
 </div>
 
 <br>
